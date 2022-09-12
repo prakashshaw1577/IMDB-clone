@@ -69,5 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Home Page
+![alt text](https://github.com/prakashshaw1577/IMDB-clone/blob/master/website_design/homepage.png)
+
+Loading Page
+![alt text](https://github.com/prakashshaw1577/IMDB-clone/blob/master/website_design/loadingpage.png)
+
+Popular Page
+![alt text](https://github.com/prakashshaw1577/IMDB-clone/blob/master/website_design/popularpage.png)
+
 Movie Details
 ![alt text](https://github.com/prakashshaw1577/IMDB-clone/blob/master/website_design/carddetail.png)
